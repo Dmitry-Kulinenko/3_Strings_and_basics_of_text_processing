@@ -3,7 +3,7 @@
 //value-длина слова, initialIndex-изначальный индекс, чтобы достать
 //слово из изначального массива после сортировки по длине
 
-package by.jonline.string.regularexpressions.Task1;
+package by.jonline.string.regularexpression.Task1;
 
 public class Node {
 	private final int initialIndex;
