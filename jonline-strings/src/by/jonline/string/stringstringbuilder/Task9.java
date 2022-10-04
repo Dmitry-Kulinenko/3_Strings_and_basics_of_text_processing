@@ -1,7 +1,7 @@
 /*9. Посчитать количество строчных (маленьких) и прописных (больших) букв 
  * в введенной строке. Учитывать только английские буквы.*/
 
-package by.jonline.string.stringandstringbuilder;
+package by.jonline.string.stringstringbuilder;
 
 public class Task9 {
 	public static void main(String[] args) {

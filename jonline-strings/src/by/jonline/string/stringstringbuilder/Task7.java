@@ -2,7 +2,7 @@
  * и все пробелы. Например, если было введено "abc cdedef", 
  * то должно быть выведено "abcdef".*/
 
-package by.jonline.string.stringandstringbuilder;
+package by.jonline.string.stringstringbuilder;
 
 public class Task7 {
 	public static void main(String[] args) {

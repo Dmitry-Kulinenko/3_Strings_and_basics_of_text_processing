@@ -1,6 +1,6 @@
 /*5. Подсчитать, сколько раз среди символов заданной строки встречается буква “а”.*/
 
-package by.jonline.string.stringandstringbuilder;
+package by.jonline.string.stringstringbuilder;
 
 public class Task5 {
 	public static void main(String[] args) {

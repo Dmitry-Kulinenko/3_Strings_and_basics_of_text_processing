@@ -1,6 +1,6 @@
 /*1. Дан текст (строка). Найдите наибольшее количество подряд идущих пробелов в нем.*/
 
-package by.jonline.string.stringandstringbuilder;
+package by.jonline.string.stringstringbuilder;
 
 public class Task1 {
 	public static void main(String[] args) {

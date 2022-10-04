@@ -1,7 +1,7 @@
 /*10. Строка X состоит из нескольких предложений, каждое из которых кончается точкой, восклицательным или вопросительным 
  * знаком. Определить количество предложений в строке X.*/
 
-package by.jonline.string.stringandstringbuilder;
+package by.jonline.string.stringstringbuilder;
 
 public class Task10 {
 	public static void main(String[] args) {

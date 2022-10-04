@@ -1,6 +1,6 @@
 /*3. Проверить, является ли заданное слово палиндромом.*/
 
-package by.jonline.string.stringandstringbuilder;
+package by.jonline.string.stringstringbuilder;
 
 public class Task3 {
 	public static void main(String[] args) {

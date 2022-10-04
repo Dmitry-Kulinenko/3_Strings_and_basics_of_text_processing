@@ -1,6 +1,6 @@
 /*2. В строке вставить после каждого символа 'a' символ 'b'*/
 
-package by.jonline.string.stringandstringbuilder;
+package by.jonline.string.stringstringbuilder;
 
 public class Task2 {
 	public static void main(String[] args) {
