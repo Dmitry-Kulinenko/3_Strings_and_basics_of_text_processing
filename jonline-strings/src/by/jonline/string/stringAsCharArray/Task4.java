@@ -1,6 +1,6 @@
 /*4. В строке найти количество чисел.*/
 
-package by.jonline.string.stringAsCharArray;
+package by.jonline.string.stringaschararray;
 
 public class Task4 {
 	public static void main(String[] args) {

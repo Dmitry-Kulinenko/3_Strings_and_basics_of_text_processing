@@ -1,6 +1,6 @@
 /*1. Дан массив названий переменных в camelCase. Преобразовать названия в snake_case.*/
 
-package by.jonline.string.stringAsCharArray;
+package by.jonline.string.stringaschararray;
 
 public class Task1 {
 	public static void main(String[] args) {

@@ -1,6 +1,6 @@
 /*2. Замените в строке все вхождения 'word' на 'letter'.*/
 
-package by.jonline.string.stringAsCharArray;
+package by.jonline.string.stringaschararray;
 
 public class Task2 {
 	public static void main(String[] args) {

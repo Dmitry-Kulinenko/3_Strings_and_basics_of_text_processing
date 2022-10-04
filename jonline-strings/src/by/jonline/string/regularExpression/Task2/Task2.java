@@ -2,7 +2,7 @@
  *  (открывающий тег, закрывающий тег, содержимое тега, тег без тела)
  *  Пользоваться готовыми парсерами XML для решения данной задачи нельзя*/
 
-package by.jonline.string.regularExpression.Task2;
+package by.jonline.string.regularexpression.Task2;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

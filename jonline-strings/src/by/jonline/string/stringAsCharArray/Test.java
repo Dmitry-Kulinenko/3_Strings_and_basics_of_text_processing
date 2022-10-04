@@ -1,4 +1,4 @@
-package by.jonline.string.stringAsCharArray;
+package by.jonline.string.stringaschararray;
 
 public class Test {
 	public static void main(String[] args) {

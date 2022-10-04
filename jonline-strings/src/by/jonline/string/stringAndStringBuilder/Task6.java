@@ -1,6 +1,6 @@
 /*6. Из заданной строки получить новую, повторив каждый символ дважды.*/
 
-package by.jonline.string.stringAndStringBuilder;
+package by.jonline.string.stringandstringbuilder;
 
 public class Task6 {
 	public static void main(String[] args) {

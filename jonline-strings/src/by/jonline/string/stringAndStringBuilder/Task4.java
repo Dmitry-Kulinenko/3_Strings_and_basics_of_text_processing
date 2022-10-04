@@ -1,7 +1,7 @@
 /*4. С помощью функции копирования и операции конкатенации 
  * составить из частей слова “информатика” слово “торт”.*/
 
-package by.jonline.string.stringAndStringBuilder;
+package by.jonline.string.stringandstringbuilder;
 
 public class Task4 {
 	public static void main(String[] args) {

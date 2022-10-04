@@ -1,7 +1,7 @@
 /*5. Удалить в строке все лишние пробелы, то есть серии подряд идущих пробелов заменить на одиночные пробелы.
 Крайние пробелы в строке удалить.*/
 
-package by.jonline.string.stringAsCharArray;
+package by.jonline.string.stringaschararray;
 
 public class Task5 {
 	public static void main(String[] args) {
