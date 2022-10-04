@@ -3,7 +3,7 @@
  * в каждом предложении отсортировать слова по длине;
  * отсортировать лексемы в предложении по убыванию количества вхождений заданного символа, а в случае равенства – по алфавиту.*/
 
-package by.jonline.string.regularexpression.Task1;
+package by.jonline.string.regularexpressions.Task1;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
